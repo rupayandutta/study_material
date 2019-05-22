@@ -1,0 +1,43 @@
+[09/04, 14:15] Chitto Sardar SISO: https://developer.android.com/training/basics/firstapp/building-ui
+[09/04, 14:15] Chitto Sardar SISO: https://developer.android.com/training/basics/firstapp/starting-activity
+[09/04, 14:16] Chitto Sardar SISO: https://developer.android.com/guide/components/fundamentals
+[09/04, 14:18] Chitto Sardar SISO: as much as possible from "Core topics" section, starting from here -
+https://developer.android.com/guide/components/activities/intro-activities
+[09/04, 14:19] Rupayan: Fragement
+[09/04, 14:19] Rupayan: Layering arcgitecture
+[09/04, 14:20] Chitto Sardar SISO: if you have some extra times, then this two section - 
+
+https://developer.android.com/guide/topics/resources/providing-resources
+
+https://developer.android.com/guide/topics/permissions/overview
+[09/04, 14:20] Rupayan: Material design kichu pprbo ?
+[09/04, 14:21] Chitto Sardar SISO: fragments is the second topic under section - "Core topics"
+[09/04, 14:23] Chitto Sardar SISO: it should be inside - "User Interface" section of Core topics
+[09/04, 14:26] Chitto Sardar SISO: https://developer.android.com/guide/platform
+
+[30/04, 13:46] Nimisha Siso: https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def
+[30/04, 13:46] Nimisha Siso: https://android.jlelse.eu/android-interview-questions-cheat-sheet-part-ii-bea0633f0da7
+
+https://stackoverflow.com/questions/31085406/what-happens-to-running-asynctasks-when-the-activity-changes search with "if you start an AsyncTask inside an Activity and you rotate"
+
+https://android.jlelse.eu/handling-orientation-changes-in-android-7072958c442a
+
+https://stackoverflow.com/questions/7128670/best-practice-asynctask-during-orientation-change
+
+ 
+
+ 
+
+ 
+
+https://stackoverflow.com/questions/37059315/android-jobscheduler-if-you-schedule-the-same-job-with-periodic-time-does-it-s
+
+https://developer.android.com/reference/android/app/job/JobScheduler.html#schedule(android.app.job.JobInfo)
+
+ 
+
+ 
+
+https://stackoverflow.com/questions/50251658/what-exactly-is-android-jetpack
+
+https://developer.android.com/topic/libraries/architecture/livedata and others listed core topics --> Architecture Components --> all components read
