@@ -23,12 +23,23 @@ https://stackoverflow.com/questions/31085406/what-happens-to-running-asynctasks-
 https://android.jlelse.eu/handling-orientation-changes-in-android-7072958c442a
 
 https://stackoverflow.com/questions/7128670/best-practice-asynctask-during-orientation-change
+---------------------------------------------------------------------
+New architecture components
+---------------------------------------------------------------------
+https://www.youtube.com/watch?v=7p22cSzniBM
 
+https://www.youtube.com/watch?v=BofWWZE1wts
  
+--------------------------------------------------------------------
+	Listing in Activity via adaptor 
 
- 
+https://developer.android.com/guide/topics/ui/layout/recyclerview 
 
- 
+https://developer.android.com/guide/topics/ui/layout/cardview
+
+https://developer.android.com/reference/android/widget/ListView
+
+-------------------------------------------------------------------- 
 
 https://stackoverflow.com/questions/37059315/android-jobscheduler-if-you-schedule-the-same-job-with-periodic-time-does-it-s
 
