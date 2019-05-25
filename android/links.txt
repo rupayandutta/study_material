@@ -52,3 +52,14 @@ https://developer.android.com/reference/android/app/job/JobScheduler.html#schedu
 https://stackoverflow.com/questions/50251658/what-exactly-is-android-jetpack
 
 https://developer.android.com/topic/libraries/architecture/livedata and others listed core topics --> Architecture Components --> all components read
+
+
+--------------------------------------------------------------------
+https://www.raywenderlich.com/5466-threading-with-handlerthread-in-android
+
+https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a
+
+https://www.youtube.com/playlist?list=PL6nth5sRD25hVezlyqlBO9dafKMc5fAU2
+
+
+--------------------------------------------------------------------
