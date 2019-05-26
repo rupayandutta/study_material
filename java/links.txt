@@ -1,0 +1,5 @@
+http://tutorials.jenkov.com/java-concurrency/index.html
+
+http://tutorials.jenkov.com/java-util-concurrent/index.html
+
+https://www.baeldung.com/java-even-odd-numbers-with-2-threads
