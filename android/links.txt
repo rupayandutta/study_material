@@ -46,7 +46,7 @@ https://stackoverflow.com/questions/37059315/android-jobscheduler-if-you-schedul
 https://developer.android.com/reference/android/app/job/JobScheduler.html#schedule(android.app.job.JobInfo)
 
  
-
+https://github.com/anitaa1990/Android-Cheat-sheet
  
 
 https://stackoverflow.com/questions/50251658/what-exactly-is-android-jetpack
