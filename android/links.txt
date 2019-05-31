@@ -63,7 +63,10 @@ https://www.youtube.com/playlist?list=PL6nth5sRD25hVezlyqlBO9dafKMc5fAU2
 
 
 --------------------------------------------------------------------
+		    Sync Adapters
+Theory : https://developer.android.com/training/sync-adapters/ 
 
+Code :    https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter)
 
-
+--------------------------------------------------------------------
 
