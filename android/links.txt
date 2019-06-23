@@ -69,4 +69,12 @@ Theory : https://developer.android.com/training/sync-adapters/
 Code :    https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter)
 
 --------------------------------------------------------------------
+		   Retrofit
+https://www.vogella.com/tutorials/Retrofit/article.html 
 
+https://github.com/NavjacinthMathew/RetrofitDemo
+
+https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23 
+
+https://medium.com/@jacinth9/android-retrofit-2-0-tutorial-89de3c714c63 
+---------------------------------------------------------------------

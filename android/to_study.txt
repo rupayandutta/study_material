@@ -1,0 +1,9 @@
+Mockito
+gradle
+maven
+git
+retrofit
+sync adaptor
+json read
+resyncle view
+java architecture components
