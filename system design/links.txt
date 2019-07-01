@@ -13,3 +13,5 @@ https://github.com/checkcheckzz/system-design-interview
 [11/06, 00:20] Mrinmoy Siso: https://zookeeper.apache.org/doc/current/zookeeperOver.html
 
 ----------------------------------------------------------------------
+
+https://docs.microsoft.com/en-us/azure/architecture/
