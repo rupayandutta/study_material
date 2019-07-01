@@ -15,3 +15,12 @@ https://github.com/checkcheckzz/system-design-interview
 ----------------------------------------------------------------------
 
 https://docs.microsoft.com/en-us/azure/architecture/
+----------------------------------------------------------------------
+https://github.com/elastic/elasticsearch
+
+https://en.wikipedia.org/wiki/Elasticsearch
+----------------------------------------------------------------------
+https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c
+
+https://developer.twitter.com/en/docs/basics/twitter-ids.html
+----------------------------------------------------------------------
