@@ -9,3 +9,5 @@ resyncle view
 java architecture components
 job service
 work manager
+https://github.com/codepath/android_guides/wiki/Using-the-RecyclerView
+https://www.udemy.com/course/android-development-java-android-studio-masterclass/learn/lecture/14571898#questions
